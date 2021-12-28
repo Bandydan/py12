@@ -1,3 +1,6 @@
+askljfhaskjldfh
+wkfjhasl;dfhj
+askdjfhkalsjdfh
 import sys
 filename = sys.argv[1]
 # далее открываем файл на чтение (опция 'r')
