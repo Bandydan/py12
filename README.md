@@ -1,5 +1,14 @@
 # py12
 
+```sql
+create table word (id serial, word varchar(255), vocabulary_id integer);
+```
+
+
+
+asdfasdf
+
+
 ```
 +---------+-------+
 | name    | words |
